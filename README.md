@@ -1,4 +1,4 @@
-# HR-Analytics-Dashboard-Using-Power-BI
+# HR Analytics Dashboard Using Power-BI
 **Project Description:**
 
 •	Developed an HR Analytics Dashboard using Power BI. 
