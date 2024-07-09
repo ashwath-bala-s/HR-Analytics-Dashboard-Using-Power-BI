@@ -6,7 +6,7 @@ In today's data-driven world, HR departments are increasingly relying on analyti
 
 **Problem Statement:**
 
-The HR department of the client organization seeks to enhance its decision-making capabilities through data-driven insights. The objective is to develop a Power BI Dashboard that analyzes HR data to identify important KPIs and uncover business problems that need attention. The dashboard will provide a holistic view of HR metrics. By integrating and analyzing data from various sources, the solution will enable the HR department to monitor trends, make informed decisions, and implement effective strategies for workforce management.
+The objective is to develop a Power BI Dashboard that analyzes HR data to identify important KPIs and uncover business problems that need attention. By integrating and analyzing data from various sources, the dashboard will enable the HR department to monitor trends, make informed decisions, and implement effective strategies for workforce management.
 
 **Dataset:**
 
